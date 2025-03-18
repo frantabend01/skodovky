@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<item>
+		<id type="int">1</id>
+		<nazev type="string">Škoda Oktávia</nazev>
+		<datum type="datetime">2.12.2010</datum>
+		<cena type="double">500000</cena>
+		<DPH type="double">20</DPH>
+	</item>
+	<item>
+		<id type="int">2</id>
+		<nazev type="string">Škoda Felicia</nazev>
+		<datum type="datetime">3.12.2000</datum>
+		<cena type="double">210000</cena>
+		<DPH type="double">20</DPH>
+	</item>
+	<item>
+		<id type="int">3</id>
+		<nazev type="string">Škoda Fabia</nazev>
+		<datum type="datetime">4.12.2010</datum>
+		<cena type="double">350000</cena>
+		<DPH type="double">20</DPH>
+	</item>
+	<item>
+		<id type="int">4</id>
+		<nazev type="string">Škoda Oktávia</nazev>
+		<datum type="datetime">4.12.2010</datum>
+		<cena type="double">500000</cena>
+		<DPH type="double">20</DPH>
+	</item>
+	<item>
+		<id type="int">5</id>
+		<nazev type="string">Škoda Oktávia</nazev>
+		<datum type="datetime">5.12.2010</datum>
+		<cena type="double">500000</cena>
+		<DPH type="double">20</DPH>
+	</item>
+	<item>
+		<id type="int">6</id>
+		<nazev type="string">Škoda Fabia</nazev>
+		<datum type="datetime">5.12.2010</datum>
+		<cena type="double">350000</cena>
+		<DPH type="double">20</DPH>
+	</item>
+	<item>
+		<id type="int">7</id>
+		<nazev type="string">Škoda Fabia</nazev>
+		<datum type="datetime">6.12.2010</datum>
+		<cena type="double">350000</cena>
+		<DPH type="double">20</DPH>
+	</item>
+	<item>
+		<id type="int">8</id>
+		<nazev type="string">Škoda Forman</nazev>
+		<datum type="datetime">4.12.2000</datum>
+		<cena type="double">100000</cena>
+		<DPH type="double">19</DPH>
+	</item>
+	<item>
+		<id type="int">9</id>
+		<nazev type="string">Škoda Favorit</nazev>
+		<datum type="datetime">5.12.2000</datum>
+		<cena type="double">80000</cena>
+		<DPH type="double">19</DPH>
+	</item>
+	<item>
+		<id type="int">10</id>
+		<nazev type="string">Škoda Forman</nazev>
+		<datum type="datetime">6.12.2000</datum>
+		<cena type="double">100000</cena>
+		<DPH type="double">19</DPH>
+	</item>
+	<item>
+		<id type="int">11</id>
+		<nazev type="string">Škoda Felicia</nazev>
+		<datum type="datetime">3.12.2000</datum>
+		<cena type="double">210000</cena>
+		<DPH type="double">19</DPH>
+	</item>
+	<item>
+		<id type="int">12</id>
+		<nazev type="string">Škoda Felicia</nazev>
+		<datum type="datetime">2.12.2000</datum>
+		<cena type="double">210000</cena>
+		<DPH type="double">19</DPH>
+	</item>
+	<item>
+		<id type="int">13</id>
+		<nazev type="string">Škoda Oktávia</nazev>
+		<datum type="datetime">7.12.2010</datum>
+		<cena type="double">500000</cena>
+		<DPH type="double">20</DPH>
+	</item>
+</root>
