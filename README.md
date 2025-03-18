@@ -3,6 +3,7 @@ Základní funkcionalita
 - zobrazení dat ze souboru v tabulce
 - Výpočet ceny s DPH
 - výběr podle modelu a zobrazení prodaných vozů o víkendu v druhé tabulce
+  
 Další funkcionalita
 - export vybraných modelů do CSV
 - dark mode
